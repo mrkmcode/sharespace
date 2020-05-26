@@ -1,0 +1,41 @@
+.ss-centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%); 
+}
+
+.ss-form {
+    .ss-text-input {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .ss-submit-btn {
+        margin-top: 10px;
+        color: #ffffff;
+        text-shadow: 0 0px 2px 0 #7d3073, 0 3px 0px 0 #7d3073;
+        background-color: #280837;
+        border-color: #7d3073;
+        box-shadow: 0 0px 2px 0 #7d3073, 0 3px 0px 0 #7d3073;
+        text-shadow: 1px 1px #dc3545
+    }
+    .ss-text-input, .ss-submit-btn  {
+        width: 100%;
+    }
+}
+
+.ss-tagline {
+    margin-top: 50px;
+    color: #ffffff;
+    text-shadow: 2px 2px #dc3545;
+}
+
+h1 {
+    font-family: 'Concert One';
+    font-size: 5rem;
+    color: #fff;
+    text-shadow: 2px 5px #6c2966;
+}
