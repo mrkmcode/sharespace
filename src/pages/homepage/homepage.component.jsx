@@ -11,7 +11,7 @@ const HomePage = () => (
     <Row>
         <Col sm='12' md='8' lg='8'>
             <div className="ss-centered">
-                <h1>SPACESHARE</h1>
+                <h1>SHARESPACE</h1>
                 <h2 className="ss-tagline"> 
                     Create Space. Invite People. Share Stuff. 
                 </h2>
